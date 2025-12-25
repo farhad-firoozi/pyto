@@ -1,0 +1,11 @@
+{
+    "Haspa_Test": {
+        "caretaker": "Herr Kleider",
+        "contact": "017612345678",
+        "materials": [
+            "Steinbohrer 6mm",
+            "Klebesockel"
+        ],
+        "status": "In Progress"
+    }
+}
